@@ -1,0 +1,8 @@
+press ! then enter                      To get the html boilerplate code        
+<link rel="stylesheet" href="">         To link a css file  & we also use inline css using style tag in any attribute
+<script src=""></script>                To link a javascript file 
+<h1></h1>                               For Headings in html and it can go till h6
+<p></p>                                 For paragraph in html
+        
+alt + shift + down arrow                To duplicate current line
+alt + mouse click                       To get multiple cursors to edit write code

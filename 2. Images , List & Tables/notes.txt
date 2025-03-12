@@ -1,0 +1,31 @@
+<img src="">                    A tag used in HTML to display an image, where "src" is the path (directory) of the image.
+
+<table></table>                 A tag used in HTML to create a table in which you can make rows and columns using different tags and put your content in it.
+
+<thead></thead>                 A tag used in HTML tables to group header elements, making it easier to style with CSS.
+
+<tfoot></tfoot>                 A tag used in HTML tables to group footer elements, usually for summary or total rows.
+
+<tbody></tbody>                 A tag used in HTML tables to group the main body content (rows and columns).
+
+<th></th>                       A tag used in HTML for table headings (header cells).
+
+<tr></tr>                       A tag used in HTML for table rows.
+
+<td></td>                       A tag used in HTML for putting data/content inside rows (table data cells).
+
+rowspan                         An attribute used with table tags like <th> or <td> to merge multiple rows. Example: rowspan="2" will make the cell span across 2 rows.
+
+colspan                         An attribute similar to rowspan but for columns. Example: colspan="2" will make the cell span across 2 columns.
+
+<ul></ul>                       A tag used in HTML for unordered lists (bulleted lists).
+
+<ol></ol>                       A tag used in HTML for ordered lists (numbered lists).
+
+<li></li>                       A tag used to put list items inside <ul> or <ol>.
+
+<dl></dl>                       A tag used in HTML for definition lists, which are lists of terms and their descriptions.
+
+<dt></dt>                       A tag used to define the term (heading) in a definition list.
+
+<dd></dd>                       A tag used to define the description or content of the term in a definition list.
