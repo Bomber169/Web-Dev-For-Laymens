@@ -1,5 +1,5 @@
-🌐 Web Development Basics
-Welcome to the Web Development Basics repository! 🎉
+#🌐 Web Development For Laymens
+Welcome to the Web Development For Laymens repository! 🎉
 
 This repository is designed for beginners who want to learn and understand the fundamentals of web development, covering HTML, CSS, and JavaScript with easy-to-follow notes and example code.
 
